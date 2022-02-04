@@ -1,0 +1,11 @@
+*{
+    font-size: xx-large;
+}
+
+p{
+    background-color: pink;
+}
+
+p:hover{
+    background-color:blue;
+}
